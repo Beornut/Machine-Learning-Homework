@@ -275,7 +275,6 @@ def test_bernoulli():
 
 
 if __name__ == '__main__':
-    # print(load_diabetes_data_for_bernoulli('./bank.csv')[0].columns)
     test_gaussian()
 
 
